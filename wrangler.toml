@@ -1,0 +1,7 @@
+name = "nz-life"
+main = "src/index.js"
+compatibility_date = "2026-09-24"
+
+[[assets]]
+directory = "docs/.vitepress/dist"
+binding = "ASSETS"
