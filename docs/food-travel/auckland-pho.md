@@ -35,7 +35,7 @@ tags: ["奥克兰", "越南菜", "推荐"]
 - 住在 Eden Valley、Mount Eden 附近的学生
 
 <ClientOnly>
-<ImgGallery :images="['/img/auckland-pho.jpg']"/>
+<ImgGallery :images="['/images/auckland-pho.webp']"/>
 </ClientOnly>
 
 <TipBox type="info">

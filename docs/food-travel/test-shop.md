@@ -17,4 +17,6 @@ tags: ["奥克兰","餐馆","推荐"]
 />
 
 菜品实拍：
-<ImgGallery :images="['/img/shop1.jpg']"/>
+<ClientOnly>
+<ImgGallery :images="['/images/auckland-restaurant.webp']"/>
+</ClientOnly>

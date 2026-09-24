@@ -35,7 +35,7 @@ tags: ["奥克兰", "甜品", "避雷"]
 第一次去可以先点一份基础款和一杯无糖茶，两个人分食后再决定是否追加。想避开排队，建议工作日下午前往；如果专程拍照，靠窗位置通常需要额外等待。
 
 <ClientOnly>
-<ImgGallery :images="['/img/auckland-dessert.jpg']"/>
+<ImgGallery :images="['/images/auckland-dessert.webp']"/>
 </ClientOnly>
 
 <TipBox type="info">

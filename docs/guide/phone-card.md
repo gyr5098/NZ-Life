@@ -5,6 +5,7 @@ tags: ["电话卡","奥克兰","新生"]
 ---
 
 # 新西兰电话卡怎么选
+![手机与城市生活场景](/images/nz-phone-card.webp)
 新生落地新西兰电话卡选购指南。
 
 <TipBox type="warning">

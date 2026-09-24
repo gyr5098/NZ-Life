@@ -5,6 +5,7 @@ tags: ["IRD", "税号", "留学生"]
 ---
 
 # 新西兰IRD申请指南
+![桌面上的申请资料和笔记本电脑](/images/ird-application.webp)
 
 IRD number 是新西兰税务局发放的个人税号。留学生如果准备在奥克兰兼职、申请 KiwiSaver 或处理银行利息税务，通常都需要先申请自己的 IRD number。
 
